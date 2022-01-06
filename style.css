@@ -1,0 +1,101 @@
+body{
+    font-family: 'Island Moments', cursive;
+    font-family: 'Licorice', cursive;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.purple{
+    color: purple;
+}
+h1{
+  font-size: 50px;
+  font-weight: 1000;
+  margin: 10px;
+}
+.border{
+    border-left: 7px solid purple;
+    padding-left: 5px;
+  
+    
+}
+.display{
+    display: flex;
+    margin: 20px;
+    
+}
+.intro{
+    font-size: 30px;
+    font-weight: 800;
+}
+.link{
+    text-decoration: none;
+    background-color: purple;
+    font-weight: 800;
+    border-radius: 5px;
+    color: seashell;
+    padding: 5px;
+}
+.center{
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    font-weight: 800;
+}
+P{
+  font-weight: 700;
+}
+.mission{
+    background-color: chartreuse;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    height: 500px;
+    width: 500px;
+}
+.vission{
+    background-color: darksalmon;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    height: 500px;
+    width: 500px;
+
+}
+.goals{
+   background-color: dimgrey ;
+   border-radius: 10px;
+   padding: 10px;
+   margin: 5px;
+   height: 500px;
+   width: 500px;
+   
+}
+.text-align{
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+ 
+}
+.BG-img{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.bg_img{
+    background-image: url(image/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#reg{
+    color: white;
+  
+}
+
